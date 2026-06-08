@@ -1,0 +1,23 @@
+
+> waqas-ali-portfolio@1.0.0 dev
+> next dev --turbo --hostname 127.0.0.1 --port 3000
+
+   ▲ Next.js 15.5.19 (Turbopack)
+   - Local:        http://127.0.0.1:3000
+   - Network:      http://127.0.0.1:3000
+
+ ✓ Starting...
+Creating turbopack project { dir: 'C:\\Users\\Traxim\\Desktop\\portfolio', testMode: true }
+ ✓ Ready in 1865ms
+ ○ Compiling / ...
+ ✓ Compiled / in 8s
+ GET / 200 in 8153ms
+ GET / 200 in 11392ms
+ GET / 200 in 1496ms
+ ✓ Compiled in 6.5s
+ ✓ Compiled in 430ms
+ ✓ Compiled / in 300ms
+ GET / 200 in 2336ms
+ GET / 200 in 1187ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 3.8s

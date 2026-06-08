@@ -1,0 +1,120 @@
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\server\app\page\app-build-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\server\\app\\page\\app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.0yeciji26u4'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.0yeciji26u4'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\server\app\page\app-build-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\server\\app\\page\\app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.ra0mbk6noh'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.ra0mbk6noh'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.9q5qhqsohwl'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.9q5qhqsohwl'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\server\app\page\app-build-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\server\\app\\page\\app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.x6wefqt573e'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.x6wefqt573e'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\server\app\page\app-build-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\server\\app\\page\\app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.sy99fmzywz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.sy99fmzywz'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.booe8bqxf0q'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.booe8bqxf0q'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\server\app\page\app-build-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\server\\app\\page\\app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.s0d9faw9vdm'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.s0d9faw9vdm'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\server\app\page\app-build-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\server\\app\\page\\app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.nbgtfjesu9g'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.nbgtfjesu9g'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.0hey1tdvcppm'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.0hey1tdvcppm'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\server\app\page\app-build-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\server\\app\\page\\app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.4o5vrrrpy3w'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.4o5vrrrpy3w'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\server\app\page\app-build-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\server\\app\\page\\app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.r8i4c0m36wf'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.r8i4c0m36wf'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Traxim\Desktop\portfolio\.next\static\development\_buildManifest.js.tmp.gjdnb1wdkk6'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Traxim\\Desktop\\portfolio\\.next\\static\\development\\_buildManifest.js.tmp.gjdnb1wdkk6'
+}
